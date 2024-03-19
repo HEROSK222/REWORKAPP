@@ -1,0 +1,2 @@
+# REWORKAPP
+Publikovanie rework aplikácie
